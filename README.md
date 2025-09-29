@@ -5,15 +5,15 @@ The notebooks progressively build from simple electricity market modeling to mor
 
 ## Repository Contents
 
-1. **Simple_Electricity_Market.ipynb**  
+1. **Simple Electricity Market**  
    - Introduces the fundamentals of electricity market clearing using PyPSA.  
    - Demonstrates how supply, demand, and prices interact in a simplified market.
 
-2. **Capacity Expansion Planning.ipynb**  
+2. **Capacity Expansion Planning**  
    - Explores long-term capacity expansion planning.  
    - Shows how investment decisions in generation technologies and transmission impact system costs and reliability.
 
-3. **Sector Coupling.ipynb**  
+3. **Sector Coupling**  
    - Extends the capacity expansion planning framework by integrating multiple energy sectors (e.g., electricity, heating, transport).  
    - Highlights how cross-sector interactions influence overall system design and optimization.  
    - **Note:** This notebook builds on the **Capacity Expansion Planning** model.
@@ -25,4 +25,4 @@ The notebooks progressively build from simple electricity market modeling to mor
 - Learn how to perform capacity expansion planning for long-term investment decisions.  
 - Analyze the role of sector coupling in integrated energy system design.  
 
-Note: *This work was completed as part of assignments and workshops at the **TU Berlin, ENSYS Department**.*
+*Note: This work was completed as part of assignments and workshops at the **TU Berlin, ENSYS Department**.*
