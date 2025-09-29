@@ -20,9 +20,19 @@ The notebooks progressively build from simple electricity market modeling to mor
 
 ## Learning Objectives
 
-- Understand how to formulate energy optimization problems in PyPSA.  
-- Explore electricity market clearing in a simplified system.  
-- Learn how to perform capacity expansion planning for long-term investment decisions.  
-- Analyze the role of sector coupling in integrated energy system design.  
+   - Understand how to formulate energy optimization problems in PyPSA.  
+   - Explore electricity market clearing in a simplified system.  
+   - Learn how to perform capacity expansion planning for long-term investment decisions.  
+   - Analyze the role of sector coupling in integrated energy system design.
+
+## Solvers Used
+
+The optimization models in this repository are solved using the following solvers:
+
+1. **Gurobi**  
+   - A commercial optimization solver known for high performance in linear, integer, and quadratic programming problems.
+
+2. **HiGHS**  
+   - An open-source solver for linear programming (LP), mixed-integer programming (MIP), and quadratic programming (QP), integrated via PyPSA.
 
 *Note: This work was completed as part of assignments and workshops at the **TU Berlin, ENSYS Department**.*
